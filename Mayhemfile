@@ -1,0 +1,6 @@
+project: spades
+target: spades
+
+cmds:
+  - cmd: /repo/assembler/bin/spades-bwa fa2pac /test.fa /dev/null
+    filepath: /test.fa
