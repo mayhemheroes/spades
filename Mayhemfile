@@ -1,5 +1,5 @@
 project: spades
-target: spades
+target: spades-bwa
 
 cmds:
   - cmd: /repo/assembler/bin/spades-bwa fa2pac /test.fa /dev/null
