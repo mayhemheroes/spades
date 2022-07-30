@@ -2,5 +2,4 @@ project: spades
 target: spades-bwa
 
 cmds:
-  - cmd: /repo/assembler/bin/spades-bwa fa2pac /test.fa /dev/null
-    filepath: /test.fa
+  - cmd: /spades-bwa fa2pac @@ /dev/null
